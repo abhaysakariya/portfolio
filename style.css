@@ -775,8 +775,8 @@ ol li {
   .education,
   .certificate {
     max-width: 400px;
-    /*     margin-left: 50px;
- */
+    margin-left: 50px;
+ 
   }
 
   /*   .certificate{
@@ -786,7 +786,7 @@ ol li {
 */
 
   .education {
-    margin-left: 80px;
+    margin-left: 150px;
   }
 
   .skills {
