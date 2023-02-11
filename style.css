@@ -32,9 +32,11 @@ body {
 
 .navbartop {
   background-color: #000000;
-  position: relative;
+  position: fixed;
   height: 50px;
   width: 100%;
+  top: 0;
+  z-index: 1111;
 }
 
 
