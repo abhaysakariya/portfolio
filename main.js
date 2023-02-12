@@ -23,5 +23,5 @@ window.addEventListener('load', function(){
   
   loadingdiv.style.display = 'none';
   
-  $('#maincontent').slideToggle(3000);
+  $('#maincontent').fadeToggle(3000);
 });
